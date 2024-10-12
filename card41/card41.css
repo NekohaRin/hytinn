@@ -1,0 +1,56 @@
+body {
+    background-image: url(../assets/background.png);
+    background-size: cover;
+    font-family: 'Signika-Negative-bold', sans-serif;
+    color: rgb(255, 0, 255);
+    font-weight: bolder;
+}
+
+.card3 {
+    width: 500px;
+    height: 600px;
+    background-color: rgb(254, 247, 255);
+    border-radius: 15px;
+    position: absolute;
+    top: 15%;
+    left: 37%;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.frst {
+    font-size: 22px;
+    position: absolute;
+    left: 85px;
+    top: 300px;
+    text-align: center;
+}
+
+.card3 img {
+    width: 250px;
+    position: absolute;
+    left: 123px;
+    top: 50px;
+}
+
+.scnd {
+    font-size: 22px;
+    color: rgb(163, 0, 228);
+    position: absolute;
+    top: 400px;
+    left: 180px;
+}
+
+
+.nxt {
+    text-decoration: none;
+    background-color: rgb(247, 71, 194);
+    color: white;
+    font-weight: bolder;
+    padding: 10px 160px;
+    font-size: 18px;
+    border-radius: 8px;
+    margin: 0 51px;
+    position: absolute;
+    top: 500px;
+    left: 5px;
+}

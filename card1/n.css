@@ -1,0 +1,52 @@
+body {
+    background-image: url(../assets/background.png);
+    background-size: cover;
+    font-family: 'Signika-Negative-bold', sans-serif;
+    color: rgb(255, 0, 255);
+}
+
+.no {
+    width: 500px;
+    height: 600px;
+    background-color: rgb(254, 247, 255);
+    border-radius: 15px;
+    position: absolute;
+    top: 15%;
+    left: 37%;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.ckp {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.no img {
+    width: 225px;
+    position: absolute;
+    left: 135px;
+    top: 100px;
+}
+
+.mess {
+    position: absolute;
+    top: 325px;
+    font-size: 20px;
+    text-align: center;
+    left: 40px;
+}
+
+.ok {
+    text-decoration: none;
+    background-color: rgb(247, 71, 194);
+    color: white;
+    font-weight: bolder;
+    padding: 10px 160px;
+    font-size: 18px;
+    border-radius: 8px;
+    margin: 0 51px;
+    position: absolute;
+    top: 500px;
+    left: 5px;
+}

@@ -1,0 +1,63 @@
+@import url(fonts/font.css);
+.concert-one-regular {
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    background-image: url(assets/background.png);
+    background-size: cover;
+    font-family: 'Signika-Negative-bold', sans-serif;
+}
+
+.container {
+    width: 500px;
+    height: 600px;
+    background-color: rgb(254, 247, 255);
+    border-radius: 15px;
+    position: absolute;
+    top: 15%;
+    left: 37%;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.sowry {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: rgb(255, 0, 255);
+}
+
+.container img {
+    width: 250px;
+    position: absolute;
+    left: 123px;
+}
+
+.container h2 {
+    position: absolute;
+    top: 375px;
+    left: 70px;
+    font-size: 20px;
+    font-family: "Signika-Negative-bold", sans-serif;
+    text-align: center;
+    color: rgb(255, 0, 255);
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(247, 71, 194);
+    color: white;
+    font-weight: bolder;
+    padding: 10px 55px;
+    font-size: 18px;
+    border-radius: 8px;
+    margin: 0 51px;
+    position: absolute;
+    top: 500px;
+}
+
+.no {
+    left: 210px;
+}

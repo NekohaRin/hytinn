@@ -1,0 +1,51 @@
+body {
+    background-image: url(../assets/background.png);
+    background-size: cover;
+    font-family: 'Signika-Negative-bold', sans-serif;
+    color: rgb(255, 0, 255);
+    font-weight: bolder;
+}
+
+.card2 {
+    width: 500px;
+    height: 900px;
+    background-color: rgb(254, 247, 255);
+    border-radius: 15px;
+    position: absolute;
+    top: 6%;
+    left: 37%;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.card2 img {
+    width: 225px;
+    position: absolute;
+    left: 140px;
+    top: 50px;
+}
+
+.ew {
+    font-size: 17px;
+    position: absolute;
+    left: 100px;
+    top: 300px;
+}
+
+.ew #lop {
+    top: 740px;
+    font-size: 20px;
+}
+
+.nxt {
+    text-decoration: none;
+    background-color: rgb(247, 71, 194);
+    color: white;
+    font-weight: bolder;
+    padding: 10px 160px;
+    font-size: 18px;
+    border-radius: 8px;
+    margin: 0 51px;
+    position: absolute;
+    top: 795px;
+    left: 5px;
+}
